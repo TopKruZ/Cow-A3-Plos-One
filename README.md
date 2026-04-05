@@ -6,4 +6,4 @@ Code -> The repository provides the complete implementation, including the stand
 
 Model -> The repository contains the specialized weights for the top-view detection model and the optimized model, which has been specifically fine-tuned to enhance detection precision for the Drinking, Mounting, and Chin-resting classes.
 
-Dataset -> The repository includes the top-view behavioral dataset for livestock activity recognition, along with the independent test set and its corresponding ground truth labels derived from expert human observation for model validation.
+Datasets -> The repository includes the top-view behavioral dataset for livestock activity recognition, along with the independent test set and its corresponding ground truth labels derived from expert human observation for model validation.
