@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['drink', 'eat', 'lay', 'propping', 'ride', 'stand']
+
+roboflow:
+  workspace: cow-a3
+  project: cow-a3-jczoz
+  version: 5
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/cow-a3/cow-a3-jczoz/dataset/5
